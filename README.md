@@ -1,4 +1,4 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/denus5p-8441bdcb-c4f5-49d6-ad16-c0f648355855.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGVudXM1cC04NDQxYmRjYi1jNGY1LTQ5ZDYtYWQxNi1jMGY2NDgzNTU4NTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sn9Wutf1iSk_ZUCPYL_cAMN5x0v9b304_Ny4tiDm6O4)
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/denus5p-8441bdcb-c4f5-49d6-ad16-c0f648355855.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGVudXM1cC04NDQxYmRjYi1jNGY1LTQ5ZDYtYWQxNi1jMGY2NDgzNTU4NTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sn9Wutf1iSk_ZUCPYL_cAMN5x0v9b304_Ny4tiDm6O4)
 
 
 <div align="center">
@@ -38,9 +38,11 @@
 </p>
 
 <h3 align="left">⚒️ Languages and Tools ⚒️</h3>
-<img src="https://skillicons.dev/icons?i=aws,androidstudio,azure,bootstrap,c,cpp,css,dart,docker,figma"/>
-<img src="https://skillicons.dev/icons?i=firebase,flutter,gcp,git,golang,gradle,html,java,jquery,javascript"/>
-<img src="https://skillicons.dev/icons?i=kotlin,laravel,mongodb,mysql,nextjs,nodejs,php,react,sqlite,vscode"/>
+<img src="https://skillicons.dev/icons?i=aws,androidstudio,azure,bootstrap,c,cpp,css"/>
+<img src="https://skillicons.dev/icons?i=dart,docker,figma,firebase,flutter,gcp,git"/>
+<img src="https://skillicons.dev/icons?i=golang,gradle,html,java,jquery,javascript,kotlin"/>
+<img src="https://skillicons.dev/icons?i=laravel,mongodb,mysql,nextjs,nodejs,php,react"/>
+<img src="https://skillicons.dev/icons?i=sqlite,vue,vscode"/>
 
 
 <!--
