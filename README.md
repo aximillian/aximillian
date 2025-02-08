@@ -37,11 +37,10 @@
 <a href="https://instagram.com/bryanmaximilliann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryanmaximilliann" height="30" width="40" /></a></p>
 
 <h3 align="left">⚒️ Languages and Tools ⚒️</h3>
-<img src="https://skillicons.dev/icons?i=aws,androidstudio,azure,bootstrap,c,cpp,css"/>
-<img src="https://skillicons.dev/icons?i=dart,docker,figma,firebase,flutter,gcp,git"/>
-<img src="https://skillicons.dev/icons?i=golang,gradle,html,java,jquery,javascript,kotlin"/>
-<img src="https://skillicons.dev/icons?i=laravel,mongodb,mysql,nextjs,nodejs,php,react"/>
-<img src="https://skillicons.dev/icons?i=sqlite,vue,vscode"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,css,dart"/>
+<img src="https://skillicons.dev/icons?i=figma,firebase,flutter,git,golang"/>
+<img src="https://skillicons.dev/icons?i=gradle,html,java,javascript,kotlin"/>
+<img src="https://skillicons.dev/icons?i=laravel,mysql,php,react,vscode"/>
 
 
 <!--
